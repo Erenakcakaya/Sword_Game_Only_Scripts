@@ -9,7 +9,7 @@ public class BasicNPCsController : MonoBehaviour
 
     void Update()
     {
-        TurnToPlayer();
+        TurnToPlayer();//Test
     }
 
     void TurnToPlayer()//NPC'yi sürekli oyuncuya döndürür.
